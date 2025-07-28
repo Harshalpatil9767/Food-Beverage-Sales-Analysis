@@ -99,6 +99,6 @@ This project aims to provide actionable insights into sales performance within t
 
 ## 📸 Preview
 
-![Dashboard Preview](./Screenshot_2025-07-28_124132.png)
+![Dashboard Preview](https://github.com/Harshalpatil9767/Food-Beverage-Sales-Analysis/blob/cc1be6c12c0e3aca3e5de47169bfdef8f96a5465/Food_Beverages_POWERBI.png)
 
 
