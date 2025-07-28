@@ -85,10 +85,9 @@ A one-to-many relationship is established between `Product.ID` and `Sheet1.Produ
 
 ---
 
-## 📁 Project Files
-- 📄 `F and B completed Report.pdf` – A PDF export of the Power BI dashboard
-- 🖼️ Screenshot of the data model schema
-- `.pbix` file (not included in this repo but available on request)
+## 📁 Data
+![Data Schema Preview](https://github.com/Harshalpatil9767/Food-Beverage-Sales-Analysis/blob/3ecc19a2d33aec8083196606b7d304fa6d708b86/Data_Schema.png)
+
 
 ---
 
